@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "How does a transfer work in Scottish football?",
+            "description": "With the January window open, BBC Scotland finds out what goes on behind the scenes during a Scottish football transfer.",
+            "url": "http://www.bbc.co.uk/sport/football/60155515",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/2DF5/production/_123056711_gettyimages-111659230.jpg",
+            "publishedAt": "2023-01-11T10:22:27.1836819Z",
+            "content": "Private investigators, annual leave entitlement &amp; tapping up can all play a part in a football transfer\r\n\"It's madness. Every time it comes around, it shortens your life by another two years. You… [+7424 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "« Pas de démocratie, aucune transparence »... Éric Thomas fustige Noël Le Graët et la FFF",
+            "description": "Le président de l'Association française du football amateur, Éric Thomas, dénonce dans un entretien à « L'Humanité » le comportement de Noël Le Graët et les dysfonctionnements de la FFF, dont le comex se réunit ce mercredi matin.",
+            "url": "https://www.lequipe.fr/Football/Actualites/-pas-de-democratie-aucune-transparence-eric-thomas-fustige-noel-le-graet-et-la-fff/1373990",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/thomas-est-le-president-de-l-affa-j-prevost-l-equipe/1500000001733809/0:0,1995:1330-640-427-75/d0eb1.jpg",
+            "publishedAt": "2023-01-11T09:52:56+00:00",
+            "content": "Président de l'Association française du football amateur (AFFA), Éric Thomas a sévèrement taclé Noël Le Graët et le fonctionnement de la Fédération française de football (FFF) dans un entretien accor… [+1788 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Ryan Dabbs",
+            "title": "Why are right-wing rioters in Brazil wearing Seleçao shirts?",
+            "description": "Thousands of right-wing protestors in Brazil stormed government buildings on Sunday while wearing the Brazilian national football team shirt – so why has the kit become a symbol of their movement?",
+            "url": "https://www.fourfourtwo.com/news/why-are-right-wing-rioters-in-brazil-wearing-selecao-shirts",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/k3DqJio7CoxH9bXx3eTTMR-1200-80.jpg",
+            "publishedAt": "2023-01-11T09:18:55Z",
+            "content": "When supporters of Brazil's former far-right leader Jair Bolsonaro surrounded the presidential palace and stormed congress and the Supreme Court on Sunday, they did so while wearing the yellow shirts… [+3933 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Georgia's dominant CFP title win sends message: 'We run the sport now'",
+            "description": "Joel Klatt explains how one play, which came late in the fourth quarter of Georgia's dominant win over TCU, sent a message to the college football world.",
+            "url": "http://www.foxsports.com/stories/college-football/georgias-dominant-cfp-win-sends-message-we-run-the-sport-now",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/16be7804-Kirby-Smart.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-11T02:39:47Z",
+            "content": "Heading into the 2022 college football season, Georgia\r\n players shared a message with head coach Kirby Smart about the style of play they wanted to bring to the field.\r\n\"Our kids said, We want to pl… [+4172 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Georgia, Michigan lead Joel Klatt's early 2023 Top 10 rankings",
+            "description": "Joel Klatt released his early 2023 college football Top 10 rankings on Tuesday, highlighted by four SEC teams and three squads from the Big Ten.",
+            "url": "http://www.foxsports.com/stories/college-football/georgia-michigan-lead-joel-klatt-early-2023-top-10-rankings",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/01.10.23_Klatt-Top-10_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-10T22:57:19Z",
+            "content": "Georgia quarterback Stetson Bennett had an eye-popping quote following the Bulldogs' 65-7 victory over TCU in Monday's College Football Playoff National Championship that summed up the program's rece… [+5432 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "Jason McIntyre",
+            "title": "College football odds: Four early CFP title futures bets to make now",
+            "description": "Jason McIntyre believes one of these four teams will win the CFP next season. Read his best early futures bets for the 2023-2024 college football season.",
+            "url": "http://www.foxsports.com/stories/college-football/college-football-odds-four-early-cfp-title-futures-bets-to-make-now",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/01/1408/814/01.10.23_Jason-McIntyres-College-Football-Best-Bets_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2023-01-10T22:43:41Z",
+            "content": "Georgia\r\n is still celebrating its championship, but with the 2022-23 college football season coming to a close, its never too early to project who will win the title next year.\r\nThere are 130 teams … [+2877 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "Ron Dicker",
+            "title": "Nick Saban's 'Death Stare' As ESPN Analyst Praises Georgia's Dominance Is Damn Funny",
+            "description": "The legendary Alabama coach got ribbed for his expression as David Pollack anointed Georgia the new standard in college football.",
+            "url": "https://www.huffpost.com/entry/nick-saban-david-pollack-espn_n_63bd4caae4b0b2e1506aef7d",
+            "urlToImage": "https://img.huffingtonpost.com/asset/63bd61d92400001b00378adb.png?ops=1200_630",
+            "publishedAt": "2023-01-10T13:18:54Z",
+            "content": "If looks could kill, legendary Alabama football coach Nick Saban could have murdered an ESPN broadcaster Monday during Georgias 65-7 rout of TCU in the college title game. (Watch the video below.)\r\nA… [+816 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "Brad Shepard",
+            "title": "Winners and Losers from the 2023 College Football National Championship",
+            "description": "The ESPN cameras caught up with Georgia head coach Kirby Smart before the game, and he mentioned his team wanted to \"hunt\" tonight. Frogs were the prey. After...",
+            "url": "https://bleacherreport.com/articles/10061126-winners-and-losers-from-the-2023-college-football-national-championship",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1673320202/cuetn9phrab94e9zmpmy.jpg",
+            "publishedAt": "2023-01-10T04:21:56Z",
+            "content": "Steph Chambers/Getty Images\r\nBy now, everybody knows Stetson Bennett's story, but he's no longer the underdog. He's the Big Dawg barking when the lights come on.\r\nWith the world watching and hoping f… [+1546 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Preseason College Football Ranking 2023: B/R's Super Early Top 25",
+            "description": "After steamrolling the TCU Horned Frogs 65-7 in the 2022 College Football Playoff national championship, the Georgia Bulldogs are also the No. 1 team in...",
+            "url": "https://bleacherreport.com/articles/10061064-preseason-college-football-ranking-2023-brs-super-early-top-25",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1673287557/vnesrunxofsdsjm5ynd1.jpg",
+            "publishedAt": "2023-01-10T04:09:19Z",
+            "content": "J.J. McCarthySet Number: X164269 TK1\r\nPerception may change in the offseason, but the uncertainty of the 2023 season is equal parts fascinating and exciting.\r\nGeorgia is ranked No. 1 ahead of Alabama… [+805 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
