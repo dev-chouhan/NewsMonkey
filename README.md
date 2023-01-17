@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## This above website is deployed on Netlify, here's the link: https://newsbydev.netlify.app/
+*Note: Website will not work becouse of free api key ( by NewsAPI.com )
+Send me money to view website online/or server.
+
 ### `npm start`
 
 Runs the app in the development mode.\
